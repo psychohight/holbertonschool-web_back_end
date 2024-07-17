@@ -1,0 +1,19 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "My ES6 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "babel-jest": "^24.9.0",
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "eslint": "^6.5.1"
+  }
+}
