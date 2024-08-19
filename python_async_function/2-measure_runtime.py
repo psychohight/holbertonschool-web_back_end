@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Measure the runtime of wait_n"""
+"""
+Measure the runtime of wait_n
+"""
 import time
 import asyncio
 
