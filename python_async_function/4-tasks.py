@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Asynchronous coroutine that takes in an integer argument and a float argument
+Asynchronous coroutine that takes in an integer argument and a float argument 
 that waits for a random delay between 0 and max_delay and returns that value.
 """
 import asyncio
