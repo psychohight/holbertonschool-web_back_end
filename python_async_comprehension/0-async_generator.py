@@ -2,9 +2,9 @@
 """
 0. Async Generator
 """
-
 import asyncio
 import random
+
 
 async def async_generator():
     """ Coroutine that generates 10 random numbers """
