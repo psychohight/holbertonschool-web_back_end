@@ -1,2 +1,2 @@
-// Ce script insère un document avec un attribut 'name' dans la collection 'school'
+// Ce script insère un document avec un attribut name dans la collection school
 db.school.insertOne({"name": "Holberton school"})
